@@ -1,0 +1,3 @@
+C:/Users/AZtech labs/CLionProjects/listenFlux/cmake-build-debug/CMakeFiles/listenFlux.dir
+C:/Users/AZtech labs/CLionProjects/listenFlux/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AZtech labs/CLionProjects/listenFlux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
